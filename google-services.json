@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840709520084",
+    "firebase_url": "https://icareapp-ub.firebaseio.com",
+    "project_id": "icareapp-ub",
+    "storage_bucket": "icareapp-ub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840709520084:android:adcdc098f15b71f9",
+        "android_client_info": {
+          "package_name": "com.example.administrator.icare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840709520084-10eollelqvj549fi5u30m979smnjsa4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.icare",
+            "certificate_hash": "c07e163f8b05a1fd3c63064ea775189f0ad22457"
+          }
+        },
+        {
+          "client_id": "840709520084-o4qingq793h6qu7ki0jck1kkdlvusogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_WDv_A7YSQyQ-sHC5zbvPyNaN8FAQIqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840709520084-o4qingq793h6qu7ki0jck1kkdlvusogg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

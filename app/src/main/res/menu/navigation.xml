@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_beranda"
+        android:icon="@drawable/icon_beranda"
+        android:title="Beranda"
+        android:iconTint="#45433d"/>
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/icon_chat"
+        android:title="Obrolan"
+        android:iconTint="#45433d"/>
+
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/icon_profile"
+        android:title="Profil"
+        android:iconTint="#45433d"/>
+
+</menu>

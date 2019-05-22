@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">I Care</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_beranda">Beranda</string>
+    <string name="title_activity_beranda_konselor">beranda_konselor</string>
+    <string name="title_activity_profil_konselor">profil_konselor</string>
+    <string name="title_activity_profile_user">profile_user</string>
+    <string name="title_activity_friendChat">FriendChat</string>
+</resources>
